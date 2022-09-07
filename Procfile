@@ -1,1 +1,1 @@
-web: gunicorn project_django.wsgi --log-file -
+web: gunicorn halodunia26.wsgi --log-file -
